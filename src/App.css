@@ -1,0 +1,98 @@
+/* src/App.css */
+
+/* Base reset / typography */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #f5f5f5;
+}
+
+header {
+  background-color: #eee;
+  padding: 10px 0;
+}
+
+.header-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.header-links a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.container {
+  width: 90%;
+  max-width: 800px;
+  margin: 20px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+button {
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  margin-bottom: 5px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+button:hover {
+  background-color: #0056b3;
+}
+input, textarea {
+  font-size: 14px;
+  font-family: inherit;
+  padding: 6px;
+  margin-bottom: 5px;
+}
+
+/* Section layout */
+.section {
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 4px;
+  background: #fafafa;
+}
+
+/* Drag/Drop zone style */
+.dropzone {
+  border: 2px dashed #999;
+  padding: 15px;
+  text-align: center;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  background: #fcfcfc;
+  cursor: pointer;
+}
+
+/* A simple status area for messages */
+.status {
+  margin-top: 10px;
+  padding: 8px;
+  background-color: #eee;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+/* Responsive media query for small screens */
+@media (max-width: 600px) {
+  .container {
+    width: 95%;
+    margin: 10px auto;
+    padding: 10px;
+  }
+  .header-links {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
