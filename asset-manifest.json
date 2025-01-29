@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ExamAI/static/css/main.87e9f4c8.css",
-    "main.js": "/ExamAI/static/js/main.c1e9241d.js",
-    "static/js/239.c429ebfc.chunk.js": "/ExamAI/static/js/239.c429ebfc.chunk.js",
-    "static/js/213.b6f8fb77.chunk.js": "/ExamAI/static/js/213.b6f8fb77.chunk.js",
-    "static/js/455.56f31cdd.chunk.js": "/ExamAI/static/js/455.56f31cdd.chunk.js",
-    "index.html": "/ExamAI/index.html",
-    "main.87e9f4c8.css.map": "/ExamAI/static/css/main.87e9f4c8.css.map",
-    "main.c1e9241d.js.map": "/ExamAI/static/js/main.c1e9241d.js.map",
-    "239.c429ebfc.chunk.js.map": "/ExamAI/static/js/239.c429ebfc.chunk.js.map",
-    "213.b6f8fb77.chunk.js.map": "/ExamAI/static/js/213.b6f8fb77.chunk.js.map",
-    "455.56f31cdd.chunk.js.map": "/ExamAI/static/js/455.56f31cdd.chunk.js.map"
+    "main.css": "/examia/static/css/main.87e9f4c8.css",
+    "main.js": "/examia/static/js/main.0bf6a8ab.js",
+    "static/js/239.c429ebfc.chunk.js": "/examia/static/js/239.c429ebfc.chunk.js",
+    "static/js/213.b6f8fb77.chunk.js": "/examia/static/js/213.b6f8fb77.chunk.js",
+    "static/js/455.56f31cdd.chunk.js": "/examia/static/js/455.56f31cdd.chunk.js",
+    "index.html": "/examia/index.html",
+    "main.87e9f4c8.css.map": "/examia/static/css/main.87e9f4c8.css.map",
+    "main.0bf6a8ab.js.map": "/examia/static/js/main.0bf6a8ab.js.map",
+    "239.c429ebfc.chunk.js.map": "/examia/static/js/239.c429ebfc.chunk.js.map",
+    "213.b6f8fb77.chunk.js.map": "/examia/static/js/213.b6f8fb77.chunk.js.map",
+    "455.56f31cdd.chunk.js.map": "/examia/static/js/455.56f31cdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87e9f4c8.css",
-    "static/js/main.c1e9241d.js"
+    "static/js/main.0bf6a8ab.js"
   ]
 }
